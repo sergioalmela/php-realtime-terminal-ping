@@ -1,4 +1,4 @@
 This program allows you to display a live command in Linux terminal to the screen using PHP.
 In this example, we are making ping to 8.8.8.8 and then, if ping is up to 40, the line showing ping will be show as red.
 
-![Gif Explicativo](https://raw.githubusercontent.com/sergioalmela/php-realtime-terminal-ping/master/terminal_gif.gif)
+![alt text](https://raw.githubusercontent.com/sergioalmela/php-realtime-terminal-ping/master/terminal_gif.gif)
